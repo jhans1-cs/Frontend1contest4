@@ -1,16 +1,4 @@
 
-
-.photo-gallery {
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    grid-gap: 10px;
-  }
-
-  .photo-gallery-item img {
-    width: 100%;
-    height: auto;
-  }
-
   .container .card {
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
     transition: 0.3s;
